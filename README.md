@@ -52,6 +52,8 @@ placed students, job profiles etc. and can delete the records as well.
 
 #### Software Stack: WAMP
 
+[(Mghyh)]
+
 ### screenshots
 
 - Home page
