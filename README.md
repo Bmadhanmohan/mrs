@@ -55,17 +55,17 @@ placed students, job profiles etc. and can delete the records as well.
 ### screenshots
 
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 - Login page
-![hello](/Screenshots/IMG_202206181_103414806.jpeg)
+![hello](/screenshots/1.jpeg)
 
 
 
