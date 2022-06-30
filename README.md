@@ -56,7 +56,7 @@ placed students, job profiles etc. and can delete the records as well.
 
 - Login page
 ![hello](/Screenshot/1.jpeg)
-![hello](/Screenshot/2.jpeg)
+![hello](/Screenshot/2_1.jpeg)
 - Login page
 ![hello](/Screenshot/3.jpeg)
 - Login page
