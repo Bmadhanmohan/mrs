@@ -56,16 +56,19 @@ placed students, job profiles etc. and can delete the records as well.
 
 - Login page
 ![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/2.jpeg)
 - Login page
-![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/3.jpeg)
 - Login page
-![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/4.jpeg)
 - Login page
-![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/5.jpeg)
 - Login page
-![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/6.jpeg)
 - Login page
-![hello](/Screenshot/1.jpeg)
+![hello](/Screenshot/7.jpeg)
+- Login page
+![hello](/Screenshot/8.jpeg)
 
 
 
