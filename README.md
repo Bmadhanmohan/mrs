@@ -54,20 +54,20 @@ placed students, job profiles etc. and can delete the records as well.
 
 ### screenshots
 
-- Login page
+- Home page
 ![hello](/Screenshot/1.jpeg)
 ![hello](/Screenshot/2_1.jpg)
-- Login page
+- Dashboard
 ![hello](/Screenshot/3.jpeg)
-- Login page
+- student Registration
 ![hello](/Screenshot/4.jpeg)
-- Login page
+- candidate Login 
 ![hello](/Screenshot/5.jpeg)
-- Login page
+- Update profile
 ![hello](/Screenshot/6.jpeg)
-- Login page
+- company Registration
 ![hello](/Screenshot/7.jpeg)
-- Login page
+- Admin panel
 ![hello](/Screenshot/8.jpeg)
 
 
